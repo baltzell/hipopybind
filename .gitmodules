@@ -1,3 +1,3 @@
 [submodule "hipo"]
 	path = hipo
-	url = https://github.com/gavalian/hipo.git
+	url = https://code.jlab.org/hallb/clas12/hipo-cpp.git
